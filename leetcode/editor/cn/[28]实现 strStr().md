@@ -64,9 +64,9 @@ class Solution {
 
 **复杂度分析**
 
-- 时间复杂度：$O(n \times m)$，其中 $n$ 是字符串 $\textit{haystack}$ 的长度，$m$ 是字符串 $\textit{needle}$ 的长度。最坏情况下我们需要将字符串 $\textit{needle}$ 与字符串 $\textit{haystack}$ 的所有长度为 $m$ 的子串均匹配一次。
+- 时间复杂度：![O(n \times m)](http://latex.codecogs.com/svg.latex?O(n \times m))，其中 ![n](http://latex.codecogs.com/svg.latex?n) 是字符串 ![\textit{haystack}](http://latex.codecogs.com/svg.latex?\textit{haystack}) 的长度， ![m](http://latex.codecogs.com/svg.latex?m)是字符串 ![\textit{needle}](http://latex.codecogs.com/svg.latex?\textit{needle}) 的长度。最坏情况下我们需要将字符串 ![\textit{needle}](http://latex.codecogs.com/svg.latex?\textit{needle}) 与字符串  的所![\textit{haystack}](http://latex.codecogs.com/svg.latex?\textit{haystack})有长度为  的子串![m](http://latex.codecogs.com/svg.latex?m)均匹配一次。
 
-- 空间复杂度：$O(1)$。我们只需要常数的空间保存若干变量。
+- 空间复杂度：![O(1)](http://latex.codecogs.com/svg.latex?O(1))。我们只需要常数的空间保存若干变量。
 
 **2. Knuth-Morris-Pratt 算法**
 
@@ -75,8 +75,7 @@ class Solution {
 
 **复杂度分析**
 
-- 时间复杂度：$O(n+m)$，其中 $n$ 是字符串 $\textit{haystack}$ 的长度，$m$ 是字符串 $\textit{needle}$ 的长度。我们至多需要遍历两字符串一次。
+- 时间复杂度：![O(n + m)](http://latex.codecogs.com/svg.latex?O(n + m))，其中 ![n](http://latex.codecogs.com/svg.latex?n) 是字符串 ![\textit{haystack}](http://latex.codecogs.com/svg.latex?\textit{haystack}) 的长度， ![m](http://latex.codecogs.com/svg.latex?m)是字符串 ![\textit{needle}](http://latex.codecogs.com/svg.latex?\textit{needle}) 的长度。我们至多需要遍历两字符串一次。
 
-- 空间复杂度：$O(m)$，其中 $m$ 是字符串 $\textit{needle}$ 的长度。我们只需要保存字符串 $\textit{needle}$ 的前缀函数。
-
+- 空间复杂度：![O(m)](http://latex.codecogs.com/svg.latex?O(m))，其中  ![m](http://latex.codecogs.com/svg.latex?m)是字符串  的![\textit{needle}](http://latex.codecogs.com/svg.latex?\textit{needle})长度。我们只需要保存字符串  的前![\textit{needle}](http://latex.codecogs.com/svg.latex?\textit{needle})缀函数。
 
