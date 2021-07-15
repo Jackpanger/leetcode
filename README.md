@@ -56,7 +56,7 @@
 
 ### easy
 
->[[28]实现 strStr().md](leetcode/editor/cn/[28]实现 strStr().md)
+>[[28]实现 strStr().md](leetcode/editor/cn/%5B28%5D实现%20strStr().md)
 >
 >
 
