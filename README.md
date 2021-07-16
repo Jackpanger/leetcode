@@ -34,7 +34,7 @@
 
 ### easy
 
->[[14]最长公共前缀.md](leetcode/editor/cn/[14]最长公共前缀.md)
+>[[14]最长公共前缀.md(unfinished)](leetcode/editor/cn/[14]最长公共前缀.md)
 
 ## 动态规划
 
@@ -48,7 +48,7 @@
 
 ### easy
 
->[[14]最长公共前缀.md](leetcode/editor/cn/[14]最长公共前缀.md)
+>[[14]最长公共前缀.md(unfinished)](leetcode/editor/cn/[14]最长公共前缀.md)
 >
 >[[53]最大子序和.md](leetcode/editor/cn/[53]最大子序和.md)
 
@@ -56,7 +56,7 @@
 
 ### easy
 
->[[28]实现 strStr().md](leetcode/editor/cn/%5B28%5D实现%20strStr().md)
+>[[28]实现 strStr().md(unfinished)](leetcode/editor/cn/%5B28%5D实现%20strStr().md)
 >
 >
 
@@ -72,7 +72,7 @@
 
 ### easy
 
->[[14]最长公共前缀.md](leetcode/editor/cn/[14]最长公共前缀.md)
+>[[14]最长公共前缀.md(unfinished)](leetcode/editor/cn/[14]最长公共前缀.md)
 >
 >[[35]搜索插入位置.md](leetcode/editor/cn/[35]搜索插入位置.md)
 >
